@@ -1,0 +1,7 @@
+"*":
+  editor: {}
+  "exception-reporting":
+    userId: "022eb794-5a31-598f-ae42-04ff0f837daa"
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
